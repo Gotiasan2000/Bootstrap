@@ -1,0 +1,11 @@
+body {
+    padding-top: 56px;
+    background-image: url("../IMG/fondo.jpg");
+    background-repeat: repeat-y;
+    background-size: 100% ;
+}
+  
+footer {
+    padding: 20px 0;
+}
+  
